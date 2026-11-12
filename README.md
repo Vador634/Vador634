@@ -22,4 +22,4 @@ J'aime comprendre ce qu'il y a derrière l'écran : les applications web bien st
 | [PyAsset](https://github.com/Vador634/Patrimoine_Projet_py) | Inventaire du parc informatique avec recherche, tri et export Excel | Python · Tkinter · SQLite |
 | [Démineur Python](https://github.com/Vador634/Demineur_Python) | Démineur en Python pur, jouable en console ou dans le navigateur (Pyodide) | Python · WebAssembly |
 
-📫 [LinkedIn](https://www.linkedin.com/in/kilian-carasco-029915399/)
+🌐 [Mon portfolio](https://kiliandev.netlify.app) · 📫 [LinkedIn](https://www.linkedin.com/in/kilian-carasco-029915399/)
